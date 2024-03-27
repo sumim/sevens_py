@@ -2,7 +2,7 @@
 
 This repository contains a Python implementation of the Seven Card game (七並べ or Sevens), a simple card game played with a standard 52-card deck.
 
-The primary purpose of this code is to serve as a starting point for future improvements and refactoring, such as introducing classes for an object-oriented design. The main focus is on personal learning.
+The primary purpose of this code is to serve as a foundation for future improvements and refactoring. Potential enhancements include introducing classes for an object-oriented design or redesigning the codebase for functional programming principles. The main focus is on personal learning and growth as a developer.
 
 ## Game Rules
 
