@@ -11,7 +11,7 @@ The primary purpose of this code is to serve as a foundation for future improvem
 - The game starts with all players being dealt an equal number of cards.
 - The players who have a 7 card place them in the center of the table. The player with the 7 of diamonds starts the game.
 - Players take turns playing cards from their hand, following the suit and rank of the cards on the table.
-- A card can be played if it is one rank higher or lower than the card at either end of the sequence on the table for the corresponding suit, **including 7** (this is an important side note that becomes relevant when the hands of defeated players are released to the field).
+- A card can be played if it is one rank higher or lower than the card at either end of the sequence on the table for the corresponding suit. (The only exception is a 7, which can be played even if the adjacent 6 and 8 are not yet on the table. For all other ranks, at least one of the adjacent cards must already be placed on the table to play them. This rule becomes particularly relevant when hands of defeated players are added to the table, as it may create new sequences and allow previously unplayable cards to be played.)
 - If a player cannot play a card, they must pass their turn. A player may also strategically pass even if they have a playable card. However, the number of passes is limited to 3, and on the 4th pass, the player is forced to retire, and all their cards are placed in the appropriate positions on the field.
 - The game continues until one player runs out of cards or there is only one player left, at which point that last player is declared the winner.
 
